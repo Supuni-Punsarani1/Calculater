@@ -1,4 +1,4 @@
-console.log("Calculater");
+console.log("Create Calculater");
 let num1=5;
 let num2=10;
 let sum;
