@@ -1,0 +1,26 @@
+let name="chatbox";
+let year="2020";
+console.log("Hello! My name is " + name);
+console.log("I was created in " + year);
+
+console.log("Calculater");
+let num1=5;
+let num2=10;
+let sum;
+sum=num1+num2;
+console.log("sum of two number is "+sum);
+substract=num2-num1;
+console.log("substract of two number is "+substract);
+multy=num1*num2;
+console.log("multiplication of two numbers is "+multy);
+div=num1/num2;
+console.log("division of two numbers is "+div);
+
+
+const pi=3.14;
+let r=5.5;
+let circumference,area;
+circumference=2*pi*r;
+area=pi*r*r;
+console.log("area of circle:" + area );
+console.log("circumference of circle:" +circumference);
