@@ -1,2 +1,2 @@
 # Calculater
-This is first javasccript project
+This is first javascript project
